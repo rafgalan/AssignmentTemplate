@@ -1,0 +1,11 @@
+.bg-custom{
+    background-color: brown;
+    border-bottom: 3px solid orangered;
+    color: white;
+}
+.bgheader{
+    background-image: url("img/wineSlide.jpg");
+}
+.imagefont{
+   color: whitesmoke; 
+}
